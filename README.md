@@ -3,7 +3,7 @@ Wukong BOT Telegram Auto Clear Task
 
 Register Here : https://t.me/sunkongmyth_bot/sunkong_miniapp?startapp=0449B9F82
 
-git clone https://github.com/Kapaljetz666
+git clone https://github.com/Kapaljetz666/wukong
 
 
 cd wukong
