@@ -154,4 +154,4 @@ if tokens:
     for token in tokens:
         auto_clear_task(token)
 else:
-    print(f"{Fore.RED}Failed to get tokens. Please check your data.txt file.{Style.RESET_ALL}")
+    print(f"{Fore.RED}Failed to get tokens. Please check your token.txt file.{Style.RESET_ALL}")
