@@ -5,6 +5,7 @@ from colorama import Fore, Style, init
 init()
 
 print(f"{Fore.BLUE}")
+print("               WUKONG AUTO CLEAR TASK            ")
 print("__________ ________    ___________________ _________")
 print("\\______   \\_____  \\  /   _____|_   _____//   _____/")
 print(" |       _/ /   |   \\ \\_____  \\ |    __)_ \\_____  \\ ")
@@ -13,6 +14,8 @@ print(" |____|_  /\\_______  /_______  /_______  /_______  /")
 print("        \\/         \\/        \\/        \\/        \\/ ")
 print("                                                         ")
 print("           https://github.com/Kapaljetz666/              ")
+print("              https://discord.gg/3Bpcexn6                ")
+print("                  AIRDROP INDONESIA BOT                ")
 print(f"{Style.RESET_ALL}")
 
 def read_tokens_from_file(file_path):
@@ -142,7 +145,7 @@ def auto_clear_task(token):
         else:
             print(f"{Fore.RED}No rewards to claim or an error occurred.{Style.RESET_ALL}")
 
-token_file_path = "data.txt"
+token_file_path = "token.txt"
 tokens = read_tokens_from_file(token_file_path)
 
 print(f"{Fore.CYAN}Total of accounts: {len(tokens)}{Style.RESET_ALL}")
