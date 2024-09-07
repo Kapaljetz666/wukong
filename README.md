@@ -11,3 +11,5 @@ cd wukong
 python wukong.py 
 
 dont forget input your token in token.txt
+
+Get Token Here https://prnt.sc/PoUPWrmgw6br
